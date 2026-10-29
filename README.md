@@ -16,7 +16,7 @@ Instruções da aula
 
 8- Criar README pela interface do navegador no Github
 
-9- Sincronizar a criação do README no VSC
+9- Sincronizar a criação do README no VSC (comando git pull origin main)
 
 10- Terminal -> npm install express
 
